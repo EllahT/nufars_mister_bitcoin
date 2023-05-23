@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nufars_mister_bitcoin/static/css/main.32059bdf.css",
+    "main.js": "/nufars_mister_bitcoin/static/js/main.dad895ec.js",
+    "static/js/787.887c022c.chunk.js": "/nufars_mister_bitcoin/static/js/787.887c022c.chunk.js",
+    "static/media/bitcoin.png": "/nufars_mister_bitcoin/static/media/bitcoin.b178d32212d0d4fd9d14.png",
+    "static/media/Poppins-Regular.ttf": "/nufars_mister_bitcoin/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Black.ttf": "/nufars_mister_bitcoin/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "static/media/dollar.png": "/nufars_mister_bitcoin/static/media/dollar.3596e03dea16f081590f.png",
+    "index.html": "/nufars_mister_bitcoin/index.html",
+    "main.32059bdf.css.map": "/nufars_mister_bitcoin/static/css/main.32059bdf.css.map",
+    "main.dad895ec.js.map": "/nufars_mister_bitcoin/static/js/main.dad895ec.js.map",
+    "787.887c022c.chunk.js.map": "/nufars_mister_bitcoin/static/js/787.887c022c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32059bdf.css",
+    "static/js/main.dad895ec.js"
+  ]
+}
