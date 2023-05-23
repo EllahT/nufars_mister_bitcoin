@@ -47,7 +47,7 @@ class _Login extends Component {
     const { contact } = this.state;
     return (
       <div className='login-form'>
-        <h2>Please enter your name:</h2>
+        <h2>Please enter your name</h2>
         <form onSubmit={this.onSave}>
           <label>
             {contact && (
